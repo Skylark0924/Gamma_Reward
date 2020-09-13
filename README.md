@@ -5,7 +5,7 @@
 </ p>
 
 This is a code repository of the paper '[Learning Scalable Multi-Agent Coordination by
-Spatial Differential for Traffic Signal Control](https://arxiv.org/abs/2002.11874)'
+Spatial Differentiation for Traffic Signal Control](https://arxiv.org/abs/2002.11874)'
 
 ## Installation
 Maybe you need to create a specialised conda environment and then run following codes:
