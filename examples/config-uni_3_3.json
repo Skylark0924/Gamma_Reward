@@ -1,0 +1,11 @@
+{"interval": 1.0,
+  "seed": 0,
+  "dir": "/home/skylark/PycharmRemote/Gamma-Reward-Perfect/examples/",
+  "roadnetFile": "data/template_lsr/3_3/roadnet_3_3.json",
+  "flowFile": "data/template_lsr/3_3/anon_3_3_300_0.3_uni.json",
+  "rlTrafficLight": true,
+  "saveReplay": true,
+  "roadnetLogFile": "roadnet.json",
+  "replayLogFile": "replay.txt",
+  "num_iteration":  1000,
+  "num_episode": 1000}
