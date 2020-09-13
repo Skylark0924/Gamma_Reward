@@ -12,6 +12,7 @@ Maybe you need to create a specialised conda environment and then run following 
 ```
 git clone https://github.com/Skylark0924/Gamma-Reward-Perfect.git
 cd Gamma-Reward-Perfect
+conda install environment.yaml
 pip install -r requirements.txt
 ```
 **Note**: The package of `Cityflow` may need to be installed manually. Please see their website for details.
